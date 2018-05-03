@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "971549318273",
+    "firebase_url": "https://rajat-608ab.firebaseio.com",
+    "project_id": "rajat-608ab",
+    "storage_bucket": "rajat-608ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971549318273:android:e2f79a98fb925d42",
+        "android_client_info": {
+          "package_name": "com.example.priya.uchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971549318273-psfm9m73dchg5hguecna29m0cjjuj7lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priya.uchat",
+            "certificate_hash": "e8a3f93bc1e6837c0f257cf1816198f53479cb58"
+          }
+        },
+        {
+          "client_id": "971549318273-l191jeu0jp3d9o1k9qji94k6sgrrhhlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmbVBUwR5SEQOOM-NsmHYGDMQc8Vtcf-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971549318273-l191jeu0jp3d9o1k9qji94k6sgrrhhlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971549318273:android:36eee9ffd7819ff7",
+        "android_client_info": {
+          "package_name": "com.example.rajat.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971549318273-vose3pf6shecuhs7u3sib9cdnoob7o4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajat.crypto",
+            "certificate_hash": "e8a3f93bc1e6837c0f257cf1816198f53479cb58"
+          }
+        },
+        {
+          "client_id": "971549318273-l191jeu0jp3d9o1k9qji94k6sgrrhhlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmbVBUwR5SEQOOM-NsmHYGDMQc8Vtcf-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971549318273-l191jeu0jp3d9o1k9qji94k6sgrrhhlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971549318273:android:fe08909647f3d69c",
+        "android_client_info": {
+          "package_name": "com.example.rajat.cryptocurrency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971549318273-4m1hlc3f4ds6h1cu1od69bgn1a8ua0dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rajat.cryptocurrency",
+            "certificate_hash": "e8a3f93bc1e6837c0f257cf1816198f53479cb58"
+          }
+        },
+        {
+          "client_id": "971549318273-l191jeu0jp3d9o1k9qji94k6sgrrhhlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmbVBUwR5SEQOOM-NsmHYGDMQc8Vtcf-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971549318273-l191jeu0jp3d9o1k9qji94k6sgrrhhlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971549318273:android:015ac4a472b0bb1b",
+        "android_client_info": {
+          "package_name": "com.example.rajat.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971549318273-l191jeu0jp3d9o1k9qji94k6sgrrhhlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmbVBUwR5SEQOOM-NsmHYGDMQc8Vtcf-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
